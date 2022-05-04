@@ -188,7 +188,7 @@
     border-radius: 20px;
 }
 .pc__nav-ptc-demo {
-    background: url('/assets/img/navigation/destination.jpg') top center / cover no-repeat;
+    background: url(../../assets/img/navigation/destination.jpg) top center / cover no-repeat;
     width: 250px;
     height: 225px;
     margin: 40px 30px;
@@ -536,7 +536,7 @@
     justify-content: space-around;
     flex-wrap: nowrap;
     align-items: center;
-    background-image: url(/assets/img/content/place-holiday/parallax-search-2.jpg);
+    background-image: url(../../assets/img/content/place-holiday/parallax-search-2.jpg);
     height: 200px;
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -623,7 +623,7 @@
 /* Placee time */
 .place__info--time {
     background-repeat: no-repeat;
-    background-image: url(/assets/img/content/place-info/package-3.jpg);
+    background-image: url(../../assets/img/content/place-info/package-3.jpg);
     background-size: cover;
     background-position: center center;
     width: 70%;
@@ -716,7 +716,7 @@
 .discover__place-recent {
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: url(/assets/img/content/discover-place/parallax-5-filter.jpg) ;
+    background-image: url(../../assets/img/content/discover-place/parallax-5-filter.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -744,7 +744,7 @@
 .discover__place-recent2 {
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: url(/assets/img/content/discover-place/parallax-6-filter.jpg) ;
+    background-image: url(../../assets/img/content/discover-place/parallax-6-filter.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -770,7 +770,7 @@
     border: 1px solid #f1f1f1;
 }
 .Travel__price-place-img {
-    background-image: url(/assets/img/content/travel-place/package-1-1024x640.jpg);
+    background-image: url(../../assets/img/content/travel-place/package-1-1024x640.jpg);
     width: 100%;
     height: 40%;
     background-position: center;
@@ -859,7 +859,7 @@
 
 /* Footer */
 .footer {
-    background-image: url(/assets/img/footer/parallax-7.jpg);
+    background-image: url(../../assets/img/footer/parallax-7.jpg);
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
